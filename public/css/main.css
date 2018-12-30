@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0
+}
+#content {
+    height: 500px;
+    width: 100%;
+    background-color: black;
+}
+#content p {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
